@@ -1,0 +1,1 @@
+C:\Users\HP\ LAPTOP\Documents\e.ohakabaCOS101\week-10\practice_9\target\debug\practice_9.exe: C:\Users\HP\ LAPTOP\Documents\e.ohakabaCOS101\week-10\practice_9\src\main.rs
